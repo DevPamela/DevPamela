@@ -1,13 +1,14 @@
 ## **Olá, sou a Pamela Pinheiro**
 
-- 🔭 Atualmente trabalho com Back-end
-- 🌱 Estudando C#
-- 😄 Pronouns: Ela/Dela
+- 💻 Atualmente trabalho com Back-end
+- 📖 Estudando C#
+- 👧 Pronouns: Ela/Dela
 
 ##
 
 <div align="center">
   <a href="https://github.com/DevPamela">
+    
   <img height="275em" src="https://github-readme-stats.vercel.app/api?username=DevPamela&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPamela&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
