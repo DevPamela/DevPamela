@@ -1,7 +1,7 @@
 ## **Olá, sou a Pamela Pinheiro**
 
-- 💻 Atualmente trabalho com Back-end
-- 📖 Estudando C#
+- 💻  Back-end :hearts:
+- 📖 Estudando . Net
 - 👧 Pronouns: Ela/Dela
 
 ##
