@@ -1,8 +1,8 @@
-## **Olá, sou a Pamela Pinheiro**
+## **Hello, I'm Pamela**
 
 - 💻  Back-end :hearts:
-- 📖 Estudando . Net
-- 👧 Pronouns: Ela/Dela
+- 📖 Studying . Net, MVC, CSS, Javascript, C++
+- 👧 Pronouns: She/Her
 
 ##
 
